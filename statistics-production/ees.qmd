@@ -440,7 +440,9 @@ This then becomes the default order for this filter or indicator and will apply 
 
 ---
 
-Supporting files should not be used as the default. Wherever possible you should upload your data as data files that can then be used in the table tool.
+# TODO!
+
+Supporting files should be used in exceptional cases only. Wherever possible you should upload your data as data files that can then be used in the table tool.
 
 Any files you want to make available for users to download but aren't intended for the table tool should be added as a supporting file upload. These files will need to meet all requirements of the new [accesibility regulations](https://www.gov.uk/guidance/publishing-accessible-documents) before they can be published.
 
@@ -812,6 +814,8 @@ When selected, you will then see that this data appears in the chart as if the i
 
 ---
 
+# TODO!
+
 You should only use complex charts where there is a clear user need, as simple charts are the easiest for users to understand. If you have a an infographic or a chart that is too complex to build within our chart builder you can use the 'Choose an infographic as alternative' option to upload an image to your data block or use the **Add embed block** feature to embed an R-Shiny based plot (see the section on [embedded blocks](embedded-charts.html) for further information).
 
 Infographic alternatives should be .svg format and you can use the sizing options within the data block editor to size your image appropriately.
@@ -906,7 +910,11 @@ Add any headline and/or key stats and figures for your release in the headline f
 
 You can then create accordion sections to start adding your main release commentary. These sections are made up of text blocks and data blocks which can be reordered as needed.
 
+---
+
 ### Headline facts and figures
+
+---
 
 Use the ‘Add secondary stats’ button to add a data block to your headline stats section.
 
@@ -971,6 +979,14 @@ Try to focus the 'About these statistics' section on:
 * Links to relevant related statistics including the cause of any differences
 * Further useful detail on specific measures used in the release
 * Non-urgent notices to users such as minor error corrections and delays or changes to the next publication. If there is something important which you want all users to know about then give it its own accordion section.
+
+---
+
+#### Images in content
+
+---
+
+# TODO!
 
 ---
 
@@ -1327,6 +1343,7 @@ You can add further subheadings underneath this but try to limit the number of s
 
 ## Methodology images
 
+# TODO! Point to the main image upload guidance
 
 You can add images to methodology pages via the content editor.
 
